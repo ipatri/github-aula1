@@ -8,6 +8,11 @@ public class BusinessAccount extends Account {
         super(balance, holder, number);
         this.loanLimit = loanLimit;
     }
+    @Override
+    public void withdraw(double amount){
+        super.withdraw(amount);
+        balance-=2;
+    }
 
     public BusinessAccount() {
         super();
@@ -20,7 +25,7 @@ public class BusinessAccount extends Account {
     public void setLoanLimit(Double loanLimit) {
         this.loanLimit = loanLimit;
     }
-    public void loar(double amount){
+    public void loan(double amount){
         if(amount<=loanLimit){
             balance += amount -10.0;
         }
