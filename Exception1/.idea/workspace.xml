@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30de9848-a0ac-4781-8821-12e9df1c487b" name="Default Changelist" comment="" />
+    <list default="true" id="c3404d24-5ca4-477d-9d39-0b018f162074" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/exemplo1/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FixAbsHer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FixAbsHer/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,44 +18,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/entities/TaxPayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-              <folding>
-                <element signature="e#342#343#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/application/Program.java">
+        <entry file="file://$PROJECT_DIR$/src/exemplo1/Program.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+            <state relative-caret-position="240">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/entities/Company.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/entities/Individual.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -72,10 +45,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/entities/TaxPayer.java" />
-        <option value="$PROJECT_DIR$/src/entities/Individual.java" />
-        <option value="$PROJECT_DIR$/src/entities/Company.java" />
-        <option value="$PROJECT_DIR$/src/application/Program.java" />
+        <option value="$PROJECT_DIR$/src/exemplo1/Program.java" />
       </list>
     </option>
   </component>
@@ -98,23 +68,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FixAbsHer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FixAbsHer" type="462c0819:PsiDirectoryNode" />
+              <item name="Exception1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exception1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -130,11 +97,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="application.Program" />
-      <module name="FixAbsHer" />
+      <option name="MAIN_CLASS_NAME" value="exemplo1.Program" />
+      <module name="Exception1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="application.*" />
+          <option name="PATTERN" value="exemplo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +120,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="30de9848-a0ac-4781-8821-12e9df1c487b" name="Default Changelist" comment="" />
-      <created>1561384141595</created>
+      <changelist id="c3404d24-5ca4-477d-9d39-0b018f162074" name="Default Changelist" comment="" />
+      <created>1561389581600</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561384141595</updated>
+      <updated>1561389581600</updated>
     </task>
     <servers />
   </component>
@@ -169,7 +136,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2488263" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2488263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -177,7 +144,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32876712" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -193,34 +160,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/entities/Individual.java">
+    <entry file="file://$PROJECT_DIR$/src/exemplo1/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/entities/Company.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/entities/TaxPayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <element signature="e#342#343#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/Program.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+        <state relative-caret-position="240">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
