@@ -1,5 +1,7 @@
 package model.services;
 
+import java.util.Collection;
+
 public class PayPalService implements OnlinePayment {
     private static final Double PAYMENT_FEE = 0.02;
     private static final Double INTEREST = 0.01;
